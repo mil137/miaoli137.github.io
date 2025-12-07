@@ -13,8 +13,8 @@ title       : "Miao Li"
 title_separator : "-"
 name        : &name "Miao Li"
 description : &description "PhD student in Industrial & Systems Engineering (Machine Learning Track)"
-url         : https://mil137.github.io               # your GitHub Pages root
-baseurl     : "/miaoli137.github.io"                # project path
+url: "https://mil137.github.io"
+baseurl: ""  # Keep this empty!
 repository  : "mil137/miaoli137.github.io"
 
 # Site Author - sidebar info
