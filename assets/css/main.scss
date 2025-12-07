@@ -41,10 +41,9 @@
     "vendor/font-awesome/brands"
    /* --- Miao custom sidebar spacing fix --- */
 
-   /* Add some breathing room on the right side of the author text */
+   /* ==== Custom: more space between sidebar and main content ==== */
    .sidebar .author__content,
-   .sidebar .author__bio,
    .sidebar .author__urls-wrapper {
-     padding-right: 8px;  // increase this number if you want even more space
+     padding-right: 40px;  /* increase this if you want even more space */
    }
 ;
