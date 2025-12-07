@@ -61,7 +61,7 @@ Works in Progress
    Developing a training-free framework for controlling generation trajectories in diffusion-based LLMs.  
    Manuscript expected **Dec 2025**.
 
-2. **M. Li**, H. Jiang, P. Van Hentenryck, et al.  
+2. **M. Li**, H. Jiang, D. Meng, Z.Chen, R. Bent, W. Li,P. Van Hentenryck, et al.  
    “Agentic LLM Orchestration for Real-Time Hybrid Optimization.”  
    Investigating the robust integration of neural proxies with commercial solvers using data-driven logic
    to minimize computational cost.
