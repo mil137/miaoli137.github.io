@@ -57,7 +57,7 @@ Selected works. * indicates equal contribution.
 Works in Progress
 =================
 
-1. H. Jiang\*, **M. Li**\*, et al.  
+1. **M. Li**\*, H. Jiang\*, et al.  
    “Unlocking and Verifying Structured Parallel Decoding in Diffusion Language Models via Planning Tokens.”  
    Manuscript expected **Jan 15th 2026**, in submission to *ICML* 2026. 
 
