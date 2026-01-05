@@ -24,6 +24,10 @@ Education
   University of California, San Diego, La Jolla, CA  
   *2018*
 
+Research Interest
+===============
+My general research interests include LLM reasoning and understanding the fundamental abilities of LLMs. Specifically, first, I study the inference dynamics of Diffusion Language Models (DLMs), developing decoding methods that leverage planning tokens and other internal signals to improve efficiency and controllability. Second, I explore LLMs for real-world decision-making—for example, in optimization—building systems that orchestrate large-scale workflows.
+
 Honors & Awards
 ===============
 
@@ -44,7 +48,7 @@ Selected works. * indicates equal contribution.
 
 3. **M. Li**, M. Klamkin, P. Van Hentenryck.  
    [“Conformal Prediction with Upper and Lower Bound Models.”](https://arxiv.org/abs/2503.04071)  
-   Resubmission to *ICML* 2026.
+   In submission to *ICML* 2026.
 
 4. **M. Li**, S. Na, M. Kolar.  
    “A Theoretically Sound Sequential Quadratic Programming Algorithm on Riemannian Manifolds.”
@@ -54,9 +58,8 @@ Works in Progress
 =================
 
 1. H. Jiang\*, **M. Li**\*, et al.  
-   “Lightweight Inference-Time Trajectory Optimization for Diffusion Language Models.”  
-   Developing a training-free framework for controlling generation trajectories in diffusion-based LLMs.  
-   Manuscript expected **Dec 2025**.
+   “Unlocking and Verifying Structured Parallel Decoding in Diffusion Language Models via Planning Tokens.”  
+   Manuscript expected **Jan 15th 2026**, in submission to *ICML* 2026. 
 
 2. **M. Li**, H. Jiang, D. Meng, Z.Chen, R. Bent, W. Li,P. Van Hentenryck, et al.  
    “Agentic LLM Orchestration for Real-Time Hybrid Optimization.”  
